@@ -3,7 +3,6 @@ body{
 }
 .navbar{
     margin:0px;
-    height:70px;
     box-shadow:0px 3px 10px gray;
     background-color:#AA77FF;
 }
@@ -12,7 +11,7 @@ body{
     font-size:25px;
 }
 .header-list{
-    margin-right:50%;
+    margin-left:10%;
 }
 .nav-item{
     margin-left:8%;
@@ -21,7 +20,7 @@ body{
     font-weight: 900;
 }
 .header-buttons{
-    margin-left:6%;
+    margin-right:2%;
 }
 /*design-body*/
 .row{
